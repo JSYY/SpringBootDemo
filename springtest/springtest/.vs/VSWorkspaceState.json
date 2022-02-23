@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\proto",
+    "\\public\\protobuffer",
+    "\\public\\proto\\mainproto",
+    "\\src",
+    "\\src\\router",
+    "\\src\\service",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\service\\parse-protobuf.service.ts",
+  "PreviewInSolutionExplorer": false
+}
